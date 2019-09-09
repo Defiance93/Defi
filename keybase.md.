@@ -1,0 +1,68 @@
+
+### Keybase proof
+
+I hereby claim:
+
+  * I am defiance93 on github.
+  * I am defiance93 (https://keybase.io/defiance93) on keybase.
+  * I have a public key ASA5M0H1ZXzZfCyTGg1megbDbizsroNTeB0j-nEaU8--Ego
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120393341f5657cd97c2c931a0d667a06c36e2cecae8353781d23fa711a53cfbe120a",
+      "host": "keybase.io",
+      "kid": "0120393341f5657cd97c2c931a0d667a06c36e2cecae8353781d23fa711a53cfbe120a",
+      "uid": "f69d385aa6880176978c2f5149c4cf19",
+      "username": "defiance93"
+    },
+    "merkle_root": {
+      "ctime": 1568071446,
+      "hash": "e7983b7f8b56013bdd508bc1f1401393635255de8d5beb98165f882f47bf1d47e792515e202508ee88942dddc2a35b3b88e64704b612e52dc910c1a1bb4683fc",
+      "hash_meta": "142d50ee143833670379415324b2fbbfb34f3dc2cc792d67a101e805d3b771ed",
+      "seqno": 6271875
+    },
+    "service": {
+      "entropy": "YmWXksndHyN5Al5VvriCb4ka",
+      "name": "github",
+      "username": "defiance93"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568071457,
+  "expire_in": 504576000,
+  "prev": "608f1f5ce688027c67931d5ee5dc59616d32ba43d024e1701695204eebdbd803",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASA5M0H1ZXzZfCyTGg1megbDbizsroNTeB0j-nEaU8--Ego](https://keybase.io/defiance93), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOTNB9WV82XwskxoNZnoGw24s7K6DU3gdI/pxGlPPvhIKp3BheWxvYWTESpcCBcQgYI8fXOaIAnxnkx1e5dxZYW0yukPQJOFwFpUgTuvb2APEIKEVLxaNJlD5zfiGyrBb3F7oCXaCwaJsY+00NPBgyM4jAgHCo3NpZ8RAJsVOlPtClBVrYgfI/mnuIo+ABidd0DWjzRGTp1AJclY/6Ry6joHaPPuzUgD4+05lVemROkdeiiHfMXnQVG0KCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILh15FIun9HYRBkv1mZDB9Ftp5pfUqtTfEdHJbVn9XkCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/defiance93
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id defiance93
+```
